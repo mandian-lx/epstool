@@ -6,8 +6,8 @@ License:	GPLv2+
 Group:		Graphics
 URL:		http://pages.cs.wisc.edu/~ghost/gsview/%{name}.htm
 Source0:	http://mirror.cs.wisc.edu/pub/mirrors/ghost/ghostgum/%{name}-%{version}.tar.gz
-Patch0:		%{name}-%{version}-compile.patch
-Patch1:		%{name}-%{version}-perms.patch
+Patch0:		%{name}-3.08-compile.patch
+Patch1:		%{name}-3.08-perms.patch
 
 %description
 Epstool is a utility to create or extract preview images in EPS files,
